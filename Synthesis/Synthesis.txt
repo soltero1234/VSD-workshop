@@ -1,0 +1,10 @@
+Synthesis converts RTL code into a hardware circuit made of logic gates, optimized for timing, area, and power.
+Tools used:
+1.Yosys
+-it used to generate netlist from the rtl code
+2.ABC
+-it is used for mapping technology
+Generated output
+Design name:RISC V
+TNS(total net slack)=759.46
+WNS(worst net slack)=24.89
